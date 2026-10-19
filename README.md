@@ -66,3 +66,7 @@ Browser profiles (`chrome_profile*/`), recipes and results are git-ignored becau
 - Built and tested on Windows; the Chrome path detection and batch files are Windows-specific.
 - Sites that change element IDs on every load, or use CAPTCHAs, need manual handling.
 - No automated tests yet.
+
+## License
+
+Copyright (c) 2026 Ramim Ali Siddiqui. All rights reserved. The code is published for viewing only; using, copying or modifying it requires written permission. See [LICENSE](LICENSE).
