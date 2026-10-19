@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Browser profiles hold logins and cookies - never commit
+chrome_profile/
+chrome_profile_*/
+
+# Recorded website setups and run results can contain personal data
+recipes/*
+!recipes/.gitkeep
+results/*
+!results/.gitkeep
+
+# Local data
+*.xlsx
+*.xls
+*.csv
+.env
